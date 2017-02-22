@@ -1,0 +1,31 @@
+---
+title: Web-Search Ranking with Initialized Gradient Boosted Regression Trees
+abstract: In May 2010 Yahoo! Inc. hosted the Learning to Rank Challenge. This paper
+  summarizes the approach by the highly placed team Washington University in St. Louis.
+  We investigate Random Forests (RF) as a low-cost alternative algorithm to Gradient
+  Boosted Regression Trees (GBRT) (the de facto standard of web-search ranking). We
+  demonstrate that it yields surprisingly accurate ranking results -- comparable to
+  or better than GBRT. We combine the two algorithms by first learning a ranking function
+  with RF and using it as initialization for GBRT. We refer to this setting as iGBRT.
+  Following a recent discussion byÂ ?, we show that the results of iGBRT can be improved
+  upon even further when the web-search ranking task is cast as classification instead
+  of regression. We provide an upper bound of the Expected Reciprocal RankÂ (?) in
+  terms of classification error and demonstrate that iGBRT outperforms GBRT and RF
+  on the Microsoft Learning to Rank and Yahoo Ranking Competition data sets with surprising
+  consistency.
+pdf: "./mohan11a/mohan11a.pdf"
+layout: inproceedings
+key: mohan11a
+month: 0
+firstpage: 77
+lastpage: 89
+origpdf: http://jmlr.org/proceedings/papers/v14/mohan11a/mohan11a.pdf
+sections: 
+authors:
+- given: A.
+  family: Mohan
+- given: Z.
+  family: Chen
+- given: K.
+  family: Weinberger
+---

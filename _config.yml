@@ -1,14 +1,17 @@
 # Site settings
 # Auto generated from v14.bib
 ---
-booktitle: Proceedings of the Yahoo! Learning to Rank Challenge
+booktitle: Proceedings of the Learning to Rank Challenge
 logoright: ltrc_logo.jpg
 month: 0
 address: Haifa, Israel
-publisher: JMLR Workshop and Conference Proceedings
+publisher: PMLR
 volume: 14
 year: '2010'
-shortname: Yahoo! Learning to Rank Challenge
+start: 2010-06-25
+end: 2010-06-25
+published: 2011-01-26
+shortname: Learning to Rank Challenge
 sections:
 - name: preface
   title: Introduction
@@ -28,10 +31,10 @@ editors:
   family: Chang
 - given: Tie-Yan
   family: Liu
-title: Proceedings of the Yahoo! Learning to Rank Challenge
-conference: Proceedings of the Yahoo! Learning to Rank Challenge
+title: Proceedings of the Learning to Rank Challenge
+conference: Proceedings of the Learning to Rank Challenge
 email: ''
-description: Proceedings of the Yahoo! Learning to Rank Challenge, Haifa, Israel
+description: Proceedings of the Learning to Rank Challenge, Haifa, Israel
 url: http://proceedings.mlr.press
 baseurl: "/v14"
 twitter_username: mlresearch

@@ -1,0 +1,25 @@
+---
+section: preface
+title: Yahoo! Learning to Rank Challenge Overview
+abstract: Learning to rank for information retrieval has gained a lot of interest
+  in the recent years but there is a lack for large real-world datasets to benchmark
+  algorithms. That led us to publicly release two datasets used internally at Yahoo!
+  for learning the web search ranking function. To promote these datasets and foster
+  the development of state-of-the-art learning to rank algorithms, we organized the
+  Yahoo! Learning to Rank Challenge in spring 2010. This paper provides an overview
+  and an analysis of this challenge, along with a detailed description of the released
+  datasets.
+pdf: "./chapelle11a/chapelle11a.pdf"
+layout: inproceedings
+key: chapelle11a
+month: 0
+firstpage: 1
+lastpage: 24
+origpdf: http://jmlr.org/proceedings/papers/v14/chapelle11a/chapelle11a.pdf
+sections: 
+authors:
+- given: O.
+  family: Chapelle
+- given: Y.
+  family: Chang
+---

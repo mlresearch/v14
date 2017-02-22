@@ -1,0 +1,30 @@
+---
+title: Winning The Transfer Learning Track of Yahoo!’s Learning To Rank Challenge
+  with YetiRank
+abstract: "The problem of ranking the documents according to their relevance to a
+  given query is a hot topic in information retrieval. Most learning-to-rank methods
+  are supervised and use human editor judgements for learning. In this paper, we introduce
+  novel pairwise method called YetiRank that modifies Friedman’s gradient boosting
+  method in part of gradient computation for optimization and takes uncertainty in
+  human judgements into account. Proposed enhancements allowed YetiRank to outperform
+  many state-of-the-art learning to rank methods in oï¬\x84ine experiments as well
+  as take the first place in the second track of the Yahoo! learning-to-rank contest.
+  Even more remarkably, the first result in the learning to rank competition that
+  consisted of a transfer learning task was achieved without ever relying on the bigger
+  data from the ``transfer-from'' domain."
+pdf: "./gulin11a/gulin11a.pdf"
+layout: inproceedings
+key: gulin11a
+month: 0
+firstpage: 63
+lastpage: 76
+origpdf: http://jmlr.org/proceedings/papers/v14/gulin11a/gulin11a.pdf
+sections: 
+authors:
+- given: A.
+  family: Gulin
+- given: I.
+  family: Kuralenok
+- given: D.
+  family: Pavlov
+---
