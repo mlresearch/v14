@@ -11,13 +11,14 @@ abstract: This paper describes the ideas and methodologies that we used in the Y
   diversity.
 pdf: "./busa-fekete11a/busa-fekete11a.pdf"
 layout: inproceedings
-key: busa-fekete11a
+id: busa-fekete11a
 month: 0
 firstpage: 37
 lastpage: 48
+page: 37-48
 origpdf: http://jmlr.org/proceedings/papers/v14/busa-fekete11a/busa-fekete11a.pdf
 sections: 
-authors:
+author:
 - given: R.
   family: Busa-Fekete
 - given: B.
@@ -26,4 +27,6 @@ authors:
   family: "Éltető"
 - given: G.
   family: Szarvas
+date: '2011-01-26 00:00:37'
+publisher: PMLR
 ---

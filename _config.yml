@@ -20,11 +20,11 @@ sections:
 - name: afterword
   title: Afterword
 layout: proceedings
-key: ChapelleLearning2010
+id: ChapelleLearning2010
 abstract: 
 origpdf: 
 pdf: "./ChapelleLearning2010/ChapelleLearning2010.pdf"
-editors:
+editor:
 - given: Olivier
   family: Chapelle
 - given: Yi
