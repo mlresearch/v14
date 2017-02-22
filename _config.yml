@@ -1,0 +1,40 @@
+# Site settings
+# Auto generated from v14.bib
+---
+booktitle: Proceedings of the Yahoo! Learning to Rank Challenge
+logoright: ltrc_logo.jpg
+month: 0
+address: Haifa, Israel
+publisher: JMLR Workshop and Conference Proceedings
+volume: 14
+year: '2010'
+shortname: Yahoo! Learning to Rank Challenge
+sections:
+- name: preface
+  title: Introduction
+- name: default
+  title: Contributed Papers
+- name: afterword
+  title: Afterword
+layout: proceedings
+key: ChapelleLearning2010
+abstract: 
+origpdf: 
+pdf: "./ChapelleLearning2010/ChapelleLearning2010.pdf"
+editors:
+- given: Olivier
+  family: Chapelle
+- given: Yi
+  family: Chang
+- given: Tie-Yan
+  family: Liu
+title: Proceedings of the Yahoo! Learning to Rank Challenge
+conference: Proceedings of the Yahoo! Learning to Rank Challenge
+email: ''
+description: Proceedings of the Yahoo! Learning to Rank Challenge, Haifa, Israel
+url: http://proceedings.mlr.press
+baseurl: "/v14"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
