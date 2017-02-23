@@ -28,6 +28,7 @@ author:
 - given: G.
   family: Szarvas
 date: 2011-01-26
+address: Haifa, Israel
 publisher: PMLR
 container-title: Proceedings of the Learning to Rank Challenge
 volume: '14'
