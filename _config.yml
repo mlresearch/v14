@@ -4,7 +4,6 @@
 booktitle: Proceedings of the Learning to Rank Challenge
 logoright: ltrc_logo.jpg
 month: 0
-address: Haifa, Israel
 publisher: PMLR
 volume: 14
 year: '2010'
@@ -21,9 +20,9 @@ sections:
   title: Afterword
 layout: proceedings
 id: ChapelleLearning2010
-abstract: 
+abstract: ''
 origpdf: 
-pdf: "./ChapelleLearning2010/ChapelleLearning2010.pdf"
+pdf: http://proceedings.pmlr.press/ChapelleLearning2010/ChapelleLearning2010.pdf
 editor:
 - given: Olivier
   family: Chapelle
@@ -32,7 +31,6 @@ editor:
 - given: Tie-Yan
   family: Liu
 title: Proceedings of the Learning to Rank Challenge
-conference: Proceedings of the Learning to Rank Challenge
 email: ''
 description: Proceedings of the Learning to Rank Challenge, Haifa, Israel
 url: http://proceedings.mlr.press
@@ -41,8 +39,15 @@ twitter_username: mlresearch
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
-gitub:
+github:
   edit: true
+  repository: v14
+conference:
+  name: 
+  url: 
+  location: Haifa, Israel
+  dates:
+  - 2010-06-25
 analytics:
   google:
     tracking_id: UA-92432422-1
