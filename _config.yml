@@ -21,8 +21,6 @@ sections:
 layout: proceedings
 id: ChapelleLearning2010
 abstract: ''
-origpdf: 
-pdf: http://proceedings.pmlr.press/ChapelleLearning2010/ChapelleLearning2010.pdf
 editor:
 - given: Olivier
   family: Chapelle
