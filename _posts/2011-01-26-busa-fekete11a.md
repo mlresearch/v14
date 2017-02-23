@@ -9,7 +9,7 @@ abstract: This paper describes the ideas and methodologies that we used in the Y
   a wide variety of hyperparameters improved individual models significantly, the
   final listwise ensemble step was crucial, whereas calibration helped only in creating
   diversity.
-pdf: http://jmlr.org/proceedings/papers/v14/busa-fekete11a/busa-fekete11a.pdf
+pdf: http://proceedings.mlr.press/v14/busa-fekete11a/busa-fekete11a.pdf
 layout: inproceedings
 id: busa-fekete11a
 month: 0
@@ -26,7 +26,6 @@ author:
   family: "Éltető"
 - given: G.
   family: Szarvas
-reponame: v14
 date: 2011-01-26
 address: Haifa, Israel
 publisher: PMLR
