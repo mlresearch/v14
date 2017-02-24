@@ -14,8 +14,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: busa-fekete11a
 month: 0
-firstpage: 37
-lastpage: 48
+firstpage: '37'
+lastpage: '48'
 page: 37-48
 sections: 
 author:
