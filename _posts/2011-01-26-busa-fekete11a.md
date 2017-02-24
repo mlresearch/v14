@@ -11,6 +11,7 @@ abstract: This paper describes the ideas and methodologies that we used in the Y
   diversity.
 pdf: http://proceedings.mlr.press/v14/busa-fekete11a/busa-fekete11a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: busa-fekete11a
 month: 0
 firstpage: 37
