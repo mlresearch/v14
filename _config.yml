@@ -20,6 +20,8 @@ layout: proceedings
 series: Proceedings of Machine Learning Research
 id: ChapelleLearning2010
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 editor:
 - given: Olivier
   family: Chapelle
@@ -27,7 +29,6 @@ editor:
   family: Chang
 - given: Tie-Yan
   family: Liu
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Learning to Rank Challenge
     Held in Haifa, Israel on 25 June 2010

@@ -14,6 +14,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: busa-fekete11a
 month: 0
+tex_title: Ranking by calibrated AdaBoost
 firstpage: 37
 lastpage: 48
 page: 37-48
