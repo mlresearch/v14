@@ -27,9 +27,20 @@ editor:
   family: Chang
 - given: Tie-Yan
   family: Liu
-title: Proceedings of the Learning to Rank Challenge
-email: ''
-description: Proceedings of the Learning to Rank Challenge, Haifa, Israel
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Learning to Rank Challenge
+    Held in Haifa, Israel on 25 June 2010
+
+  Published as Volume 14 by the Proceedings of Machine Learning Research on 26 January 2011.
+
+  Volume Edited by:
+    Olivier Chapelle
+    Yi Chang
+    Tie-Yan Liu
+
+  Series Editors:
+    Neil D. Lawrence
 url: http://proceedings.mlr.press
 baseurl: "/v14"
 twitter_username: mlresearch
@@ -39,6 +50,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v14
+email: ''
 conference:
   name: Proceedings of the Learning to Rank Challenge
   url: 
