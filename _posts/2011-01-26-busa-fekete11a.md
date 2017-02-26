@@ -18,7 +18,8 @@ tex_title: Ranking by calibrated AdaBoost
 firstpage: 37
 lastpage: 48
 page: 37-48
-sections: 
+order: 37
+cycles: false
 author:
 - given: R.
   family: Busa-Fekete
