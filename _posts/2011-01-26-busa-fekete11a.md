@@ -21,13 +21,13 @@ page: 37-48
 order: 37
 cycles: false
 author:
-- given: R.
+- given: Róbert
   family: Busa-Fekete
-- given: B.
+- given: Balázs 
   family: Kégl
-- given: T.
-  family: "Éltető"
-- given: G.
+- given: Tamás
+  family: Éltető
+- given: György
   family: Szarvas
 date: 2011-01-26
 address: Haifa, Israel
