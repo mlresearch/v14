@@ -1,5 +1,6 @@
 ---
 booktitle: Proceedings of the Learning to Rank Challenge
+orig_bibfile: "/Users/neil/mlresearch/bibtex.bib"
 logo: ltrc_logo.jpg
 month: 0
 publisher: PMLR
@@ -50,6 +51,10 @@ baseurl: "/v14"
 twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
 style: pmlr
 plugins:
 - jekyll-feed
@@ -77,6 +82,5 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
-orig_bibfile: "/Users/neil/mlresearch/bibtex.bib"
 # Site settings
 # Original source:  /Users/neil/mlresearch/bibtex.bib
