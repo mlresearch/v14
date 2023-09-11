@@ -1,7 +1,7 @@
 ---
 title: Ranking by calibrated AdaBoost
 abstract: This paper describes the ideas and methodologies that we used in the Yahoo
-  learning-to-rank challenge^1. Our technique is essentially pointwise with a listwise
+  learning-to-rank challenge. Our technique is essentially pointwise with a listwise
   touch at the last combination step. The main ingredients of our approach are 1)
   preprocessing (querywise normalization) 2) multi-class AdaBoost.MH 3) regression
   calibration, and 4) an exponentially weighted forecaster for model combination.
@@ -23,7 +23,7 @@ cycles: false
 author:
 - given: Róbert
   family: Busa-Fekete
-- given: Balázs 
+- given: Balázs
   family: Kégl
 - given: Tamás
   family: Éltető
